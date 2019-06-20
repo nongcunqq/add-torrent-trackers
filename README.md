@@ -1,3 +1,8 @@
+特别注意，需要安装bencoder库，安装命令   pip install bencoder
+
+
+
+![](http://ww1.sinaimg.cn/large/006tNc79ly1g47cj1w7nyj30vo04675d.jpg)
 
 
 # add torrent trackers
